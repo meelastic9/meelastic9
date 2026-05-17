@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Я начинающий аналитик данных.
 
 Учусь находить закономерности в данных, выявлять слабые места и предлагать конкретные решения.
@@ -40,4 +40,3 @@
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=meelastic9&show_icons=true&theme=dracula&hide_border=true)](https://github.com/meelastic9)
-```
