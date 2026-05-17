@@ -37,5 +37,3 @@
 Языки · Спорт · Искусство · Путешествия
 
 ---
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=meelastic9&show_icons=true&theme=dracula&hide_border=true)](https://github.com/meelastic9)
